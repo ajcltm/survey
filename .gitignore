@@ -180,3 +180,6 @@ data/
 ~$*.xlsx
 ~$*.xls
 ~$*.xlsm
+
+# Chrome browser profiles
+src/chrome_profile*/
